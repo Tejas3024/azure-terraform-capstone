@@ -199,9 +199,8 @@ Cloud • Terraform • Azure • DevOps
 
 
 
-## 👤 Author  
-**Tejas Devendra Sonawane**  
-Cloud • Terraform • Azure • DevOps  
+
+
 
 
 
