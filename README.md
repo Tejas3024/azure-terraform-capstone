@@ -7,19 +7,20 @@ This project demonstrates full Infrastructure as Code (IaC) provisioning using T
 Local Machine
    ├── Python Flask App
    ├── Terraform Scripts
-   │
-   ▼ (terraform apply)
+        │
+        ▼ (terraform apply)
 Azure Cloud
    ├── Resource Group
    ├── App Service Plan (S1)
    ├── Linux Web App (Production)
    ├── Deployment Slot (Staging)
-   │
-   ▼ (Azure CLI deploy / Slot Swap)
+        │
+        ▼ (Azure CLI deploy / Slot Swap)
 Production Deployment
    ├── Initial deploy via ZIP
    ├── Updates → Staging
    └── Slot Swap → Zero Downtime Release
+
 
 🎯 Project Objectives
 
@@ -160,4 +161,5 @@ Instant release with zero downtime
 👤 Author
 
 Tejas Devendra Sonawane
+
 Cloud • Terraform • Azure • DevOps
